@@ -1,0 +1,13 @@
+[env]
+RUST_LOG="rust_web_app=debug"
+
+
+SERVICE_WEB_FOLDER="web-folder/"
+
+SERVICE_DB_URL="postgres://app_user:password@localhost:5432/app_db"
+
+SERVICE_PWD_KEY="Cpk8JQjuk8Rmbuak9avv8Ou70OCFlr74PxHnGqMGNipjYlqv7n37theu0AY-Xu5-KBvFqkdMtsw93kihKBYTKQ"
+
+SERVICE_TOKEN_KEY="sEk5zUdYLTsAytxvev0m0bx3URyTLWIqr5lQlBAI3rcQRcP84cWCH1LbsrQxneNNt3TQ9KmkUMW7L4TLJIefGw"
+
+SERVICE_TOKEN_DURATION_SEC="1800"
